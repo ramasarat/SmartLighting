@@ -7,5 +7,5 @@ objective of the progject is to use cheap RF module with lower range and make a 
 limited range henceforth on a grid level the range is limitless
 
 #Tech Used
-arduino - hardware
+arduino - hardware__
 python - software
