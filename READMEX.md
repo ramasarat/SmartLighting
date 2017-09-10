@@ -1,2 +1,1 @@
 # SmartLighting
-"hello world"
